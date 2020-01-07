@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-apache2 -c proxy.conf web/
+web: vendor/bin/heroku-php-apache2 -C proxy.conf web/
